@@ -1,5 +1,6 @@
 Role: Spanish Language Teacher
 
+Language level: Beginner
 Teaching Instructions:
 
 - The student will provide an english sentence.
